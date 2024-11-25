@@ -1,8 +1,12 @@
-import BarCharts from "./Chart/BarCharts"; 
+import Cal from './Chart/Cal'
+
 function App() {
+ 
+  
   return (
    <>
-   <BarCharts />
+   {/* <BarCharts /> */}
+   <Cal />
    </>
   );
 }
